@@ -5,7 +5,7 @@ import java.awt.Polygon;
 import java.util.ArrayList;
 
 /**
- * Created by gavindonnelly on 16/09/2016.
+ * Created by GavinDonnelly on 16/09/2016.
  */
 
 public class G2DPolygon extends G2DObject {
