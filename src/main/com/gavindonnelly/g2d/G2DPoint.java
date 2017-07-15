@@ -1,6 +1,6 @@
 package com.gavindonnelly.g2d;
 
-import java.awt.Graphics;
+import java.awt.*;
 
 /**
  * Created by GavinDonnelly on 16/09/2016.

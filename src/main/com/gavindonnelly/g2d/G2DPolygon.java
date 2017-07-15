@@ -1,7 +1,6 @@
 package com.gavindonnelly.g2d;
 
-import java.awt.Graphics;
-import java.awt.Polygon;
+import java.awt.*;
 import java.util.ArrayList;
 
 /**

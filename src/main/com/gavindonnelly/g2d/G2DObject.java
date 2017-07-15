@@ -3,8 +3,8 @@ package com.gavindonnelly.g2d;
 /**
  * Created by gavindonnelly on 16/09/2016.
  */
-import java.awt.Color;
-import java.awt.Graphics;
+
+import java.awt.*;
 
 
 /**

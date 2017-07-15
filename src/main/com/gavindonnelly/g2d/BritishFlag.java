@@ -1,8 +1,6 @@
 package com.gavindonnelly.g2d;
 
-import java.awt.Canvas;
-import java.awt.Color;
-import java.awt.Graphics;
+import java.awt.*;
 import java.awt.event.KeyListener;
 import java.util.ArrayList;
 

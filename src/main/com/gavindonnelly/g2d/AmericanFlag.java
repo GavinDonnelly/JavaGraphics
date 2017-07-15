@@ -1,7 +1,7 @@
 package com.gavindonnelly.g2d;
 
 import java.awt.*;
-import java.awt.event.*;
+import java.awt.event.KeyListener;
 import java.util.ArrayList;
 
 /**
