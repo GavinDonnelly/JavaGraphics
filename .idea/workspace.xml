@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="682853f8-5967-4c6a-befd-308e350a5430" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/com/gavindonnelly/g2d/AmericanFlag.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/com/gavindonnelly/g2d/BritishFlag.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/com/gavindonnelly/g2d/G2DLine.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/com/gavindonnelly/g2d/G2DObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/com/gavindonnelly/g2d/G2DPoint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/com/gavindonnelly/g2d/G2DPolygon.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/com/gavindonnelly/g2d/G2DRectangle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/com/gavindonnelly/g2d/MainFrame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/com/gavindonnelly/g2d/G2DObjectTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="682853f8-5967-4c6a-befd-308e350a5430" name="Default" comment="change structure to standard">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/AmericanFlag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/BritishFlag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DPoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DPolygon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DRectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/MainFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/gavindonnelly/g2d/G2DObjectTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaGraphics.iml" afterPath="$PROJECT_DIR$/JavaGraphics.iml" />
     </list>
     <ignored path="JavaGraphics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,11 +46,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="G2DLine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DLine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="G2DPoint.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DPoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -109,7 +121,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DLine.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DRectangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DPolygon.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DPoint.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DObject.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/MainFrame.java" />
         <option value="$PROJECT_DIR$/out/production/JavaGraphics/main/java/com/gavindonnelly/g2d/AmericanFlag.class" />
@@ -119,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/test/com/gavindonnelly/g2d/G2DPointTest.java" />
         <option value="$PROJECT_DIR$/src/test/com/gavindonnelly/g2d/G2DObjectTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DPoint.java" />
       </list>
     </option>
   </component>
@@ -672,7 +684,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500125107658</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Change project to maven">
+      <created>1500149470865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1500149470865</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -756,7 +775,9 @@
     <MESSAGE value="Added basic frame to hold and display graphics and British Flag setup." />
     <MESSAGE value="Started Developing American Flag" />
     <MESSAGE value="Add test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add test" />
+    <MESSAGE value="Change project to maven" />
+    <MESSAGE value="change structure to standard" />
+    <option name="LAST_COMMIT_MESSAGE" value="change structure to standard" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -767,8 +788,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/gavindonnelly/g2d/G2DPolygon.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/gavindonnelly/g2d/G2DRectangle.java" />
     <entry file="file://$PROJECT_DIR$/src/com/gavindonnelly/g2d/MainFrame.java" />
     <entry file="file://$PROJECT_DIR$/src/com/gavindonnelly/g2d/BritishFlag.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java">
@@ -884,6 +903,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gavindonnelly/g2d/G2DPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
           <folding />
         </state>
       </provider>
